@@ -58,7 +58,7 @@ body {
 .main {
   display: flex;
   flex-direction: row;
-  margin: 40px 80px 40px 80px;
+  margin: 10px 20px 10px 20px;
 }
 .bcontainer {
   display: flex;
